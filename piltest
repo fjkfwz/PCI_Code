@@ -1,0 +1,8 @@
+from PIL import Image, ImageDraw
+
+img = Image.new('RGB', (200, 200), (255, 255, 255))
+draw = ImageDraw.Draw(img)
+draw.line((20, 50, 150, 80), fill=(255, 0, 0))
+draw.line((150, 150, 20, 200), fill=(0, 255, 0))
+draw.text((40, 80), 'Hello!', (0, 0, 0,))
+img.save('test.jpg', 'JPEG')
