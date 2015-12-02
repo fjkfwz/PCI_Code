@@ -1,5 +1,4 @@
 import recommendation
-import pydelicious
 
 # print recommendation.sim_distance(recommendation.critics, 'Lisa Rose', 'Gene Seymour')
 # print recommendation.sim_pearson(recommendation.critics, 'Lisa Rose', 'Gene Seymour')
