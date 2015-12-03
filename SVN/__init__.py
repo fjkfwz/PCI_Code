@@ -10,11 +10,15 @@ import json
 # print advancedclassify.dpclassify([30, 25], avgs)
 # print advancedclassify.dpclassify([25, 40], avgs)
 # print advancedclassify.dpclassify([48, 20], avgs)
-numbericalset = bingmapsapi.loadnumerical()
-# out = open('numbericalset.txt', 'w+')
-# print numbericalset
+# numbericalset = bingmapsapi.loadnumerical()
 # json.dump(json.JSONEncoder(numbericalset), out)
 # out.close()
+numbericalset = []
+with open("numerical.txt") as file:
+    for row in file:
+        row = json.loads(row.replace("\n", ""))
+        numbericalset.append(advancedclassify.matchrow(row))
+    print len(numbericalset)
 scaledset, scalef = advancedclassify.scaledata(numbericalset)
 # avgs = advancedclassify.lineartrain(scaledset)
 # print numbericalset[0].match

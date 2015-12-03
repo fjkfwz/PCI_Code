@@ -14,6 +14,9 @@ class matchrow:
             self.data = row[0:len(row) - 1]
         self.match = int(row[len(row) - 1])
 
+    def __str__(self):
+        return "{data:%s,match:%s}" % (self.data, self.match)
+
 
 def loadmatch(f, allnum=False):
     rows = []
@@ -106,6 +109,7 @@ def scaledata(rows):
 
     def scaleinput(d):
         return [(d[i] - low[i]) / (high[i] - low[i]) for i in range(len(low))]
+
     newrows = [matchrow(scaleinput(row.data) + [row.match]) for row in rows]
     return newrows, scaleinput
 

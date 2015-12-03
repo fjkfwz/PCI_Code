@@ -1,8 +1,6 @@
 import json
 from urllib import urlopen, quote_plus
 import advancedclassify
-import csv
-
 bingkey = "AoAoiIYIxV6pWRN_nHSgYz2BGaYqhlDC63_FXHQCteUAI2VthrUo9lJN5P4Dx_6k"
 loc_cache = {}
 
@@ -10,17 +8,16 @@ loc_cache = {}
 def loadnumerical():
     oldrows = advancedclassify.loadmatch('matchmaker.csv')
     newrows = []
-    file = open('numerical.txt', 'w+')
+    out = open('numerical.txt', 'w+')
     for row in oldrows:
         d = row.data
         data = [float(d[0]), advancedclassify.yesno(d[1]), advancedclassify.yesno(d[2]), advancedclassify.yesno(d[5]),
                 advancedclassify.yesno(d[6]), advancedclassify.yesno(d[7]), advancedclassify.matchcount(d[3], d[8]),
                 milesdistance(d[4], d[9]), row.match]
         newrows.append(advancedclassify.matchrow(data))
-        print(data)
-        file.write(["%s," % item for item in data])
-        file.write("/n")
-    file.close()
+        print(advancedclassify.matchrow(data).__str__())
+        out.write("%s\n" % data)
+    out.close()
     return newrows
 
 
