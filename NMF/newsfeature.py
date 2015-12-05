@@ -12,7 +12,8 @@ feedlist = ['http://news.google.com/?output=rss',
             'http://www.foxnews.com/xmlfeed/rss/0,4313,81,00.rss',
             'http://hosted.ap.org/lineups/TOPHEADS-rss_2.0.xml',
             'http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml',
-            'http://hosted.ap.org/lineups/WORLDHEADS-rss_2.0.xml']
+            'http://hosted.ap.org/lineups/WORLDHEADS-rss_2.0.xml',
+            'http://hosted.ap.org/lineups/POLITICSHEADS-rss_2.0.xml']
 
 
 def stripHTML(h):
@@ -57,12 +58,13 @@ def getarticlewords():
     return allwords, articlewords, articletitles
 
 
+
 def makematrix(allw, articlew):
     wordvec = []
     for w, c in allw.items():
-        if c > 3 and c < len(articlew) * 0.6:
+        if c > 3 and c < len(allw) * 0.6:
             wordvec.append(w)
-    l1 = [[(word in f and f[word] or 0) for word in wordvec] for f in articlew]
+    l1 = [[(word in f and f[word] or 0.5) for word in wordvec] for f in articlew]
     return l1, wordvec
 
 
@@ -85,15 +87,14 @@ def showfeatures(w, h, titles, wordvec, out='features.txt'):
         flist = []
         for j in range(len(titles)):
             flist.append((w[j, i], titles[j]))
-            toppatterns[j].append(w[j, i], i, titles[j])
+            toppatterns[j].append((w[j, i], i, titles[j]))
         flist.sort()
         flist.reverse()
-
         for f in flist[0:3]:
             outfile.write(str(f) + '\n')
         outfile.write('\n')
-        outfile.close()
-        return toppatterns, patternnames
+    outfile.close()
+    return toppatterns, patternnames
 
 
 def showarticles(titles, toppatterns, patternnames, out='articles.txt'):
@@ -104,5 +105,5 @@ def showarticles(titles, toppatterns, patternnames, out='articles.txt'):
         toppatterns[j].reverse()
         for i in range(3):
             outfile.write(str(toppatterns[j][i][0]) + " " + str(patternnames[toppatterns[j][i][1]]) + '\n')
-            outfile.write('\n')
-        outfile.close()
+        outfile.write('\n')
+    outfile.close()

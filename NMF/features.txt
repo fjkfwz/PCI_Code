@@ -1,2 +1,50 @@
-[]
+['iraq', 'turkish', 'troops', 'inside', 'president', 'reuters']
+(6.6312291171277709, u'Turkish deployment inside Iraq violates international law: Iraq president - Reuters')
+(1.4237530135099925, u'Iraq to Turkish forces: Please get out')
+(0.82361689455415821, u'Turkish man faces prison for comparing Erdogan to Gollum')
+
+['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+(6.7144435883102682, u"Demi Lovato Reacts to Former Costar Tiffany Thornton's Husband Chris Carney's ... - People Magazine")
+(0.7206120909898911, u"Disney star's husband dies")
+(0.60531553501107815, u'Stars honor Top 10 Heroes')
+
+['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+(6.1012763983898282, u"Woman Stabbed at Art Basel, Patrons 'Thought It Was Performance Art' - People Magazine")
+(0.56127033880134436, u'LOL! The year in laughter')
+(0.55416895693849411, u'10 diseases you thought were gone')
+
+['libya', 'isis', 'news', 'flight', 'airbase', 'training']
+(6.319013765948978, u'ISIS takes flight: Terror group training pilots at airbase in Libya - Fox News')
+(1.1252286236003382, u'ISIS TAKES FLIGHT  Terror group training  pilots at airbase in Libya')
+(0.76143572709649077, u'FBI investigating San Bernardino shooting as an act of terrorism - Washington Post')
+
+['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+(6.0263453212195675, u'NASA releases clearest images of Pluto world might see for decades - CNN')
+(2.6372870457399045, u"Woman Stabbed at Art Basel, Patrons 'Thought It Was Performance Art' - People Magazine")
+(2.241938032861039, u'Russian Truckers, Irate Over New Tolls, Block Roads Near Moscow - New York Times')
+
+['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+(5.5778652804076065, u'Russian Truckers, Irate Over New Tolls, Block Roads Near Moscow - New York Times')
+(1.1530084260857036, u"Putin: Turkey will regret warplane downing 'for a long time'")
+(0.58753672355544828, u'3 suspects arrested over missing surfers')
+
+['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+(4.7540501644158928, u'Five ways the US can reduce mass shootings - Christian Science Monitor')
+(4.4894466480379664, u'FBI investigating San Bernardino shooting as an act of terrorism - Washington Post')
+(0.78859005519443737, u'Did wife radicalize husband before San Bernardino shooting?')
+
+['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+(6.8689643355699062, u'Belgium seeks 2 tied to Paris suspect Abdeslam - CNN')
+(1.751953719638792, u'Belgium seeks 2 Paris suspects')
+(1.1102403115760773, u'FBI investigating San Bernardino shooting as an act of terrorism - Washington Post')
+
+['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+(2.6947616452207126, u'NASA releases clearest images of Pluto world might see for decades - CNN')
+(1.445157628528343, u'Blueprint to limit climate change agreed')
+(1.4222628296080337, u'Climate change deal reached')
+
+['police', 'chicago', 'video', 'reports', 'about', 'america']
+(6.428481526325144, u'Chicago Police Reports Do Not Match Video Footage - Voice of America')
+(0.74223331755380251, u'40 freed from Taliban prison in Afghan-U.S. mission')
+(0.6250524874844523, u"JUSTIFIED KILLING?  Chicago officer says he shot teen 'to stop attack'")
 

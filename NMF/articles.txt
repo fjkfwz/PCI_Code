@@ -1,0 +1,364 @@
+FBI investigating San Bernardino shooting as an act of terrorism - Washington Post/n4.48944664804 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+1.39932562121 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+1.11024031158 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+
+Five ways the US can reduce mass shootings - Christian Science Monitor/n4.75405016442 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+1.68535995268 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+0.490297906502 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Turkish deployment inside Iraq violates international law: Iraq president - Reuters/n6.63122911713 ['iraq', 'turkish', 'troops', 'inside', 'president', 'reuters']
+0.939904710976 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+0.715019983229 ['libya', 'isis', 'news', 'flight', 'airbase', 'training']
+
+Chicago Police Reports Do Not Match Video Footage - Voice of America/n6.42848152633 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.969830840096 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+0.41964475721 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+
+NASA releases clearest images of Pluto world might see for decades - CNN/n6.02634532122 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+2.69476164522 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.0935004452601 ['iraq', 'turkish', 'troops', 'inside', 'president', 'reuters']
+
+Russian Truckers, Irate Over New Tolls, Block Roads Near Moscow - New York Times/n5.57786528041 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+2.24193803286 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+0.323343560405 ['libya', 'isis', 'news', 'flight', 'airbase', 'training']
+
+Demi Lovato Reacts to Former Costar Tiffany Thornton's Husband Chris Carney's ... - People Magazine/n6.71444358831 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+1.79031581757 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+0.148398636648 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Belgium seeks 2 tied to Paris suspect Abdeslam - CNN/n6.86896433557 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+1.16858310374 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+0.528021643557 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+
+Woman Stabbed at Art Basel, Patrons 'Thought It Was Performance Art' - People Magazine/n6.10127639839 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+2.63728704574 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+0.637125957955 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+
+ISIS takes flight: Terror group training pilots at airbase in Libya - Fox News/n6.31901376595 ['libya', 'isis', 'news', 'flight', 'airbase', 'training']
+0.778453520659 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+0.692499793773 ['nbsp', 'pluto', 'images', 'nasa', 'news', 'times']
+
+Iraq to Turkish forces: Please get out/n1.42375301351 ['iraq', 'turkish', 'troops', 'inside', 'president', 'reuters']
+0.796584728364 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.730680163917 ['libya', 'isis', 'news', 'flight', 'airbase', 'training']
+
+Blueprint to limit climate change agreed/n1.44515762853 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.542773703279 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+0.513957180323 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+The U.S. is running out of bombs to drop on ISIS/n0.820919244597 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.502687024595 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.476321727202 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Belgium seeks 2 Paris suspects/n1.75195371964 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+0.873393408401 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.485040173449 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Putin vs. Erdogan: Clash of egos/n0.822221880356 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.519543971839 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+0.49740998714 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Sheen sued for not disclosing HIV/n0.806364501473 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501901577752 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.479895977896 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+The best photos of 2015/n0.989653826655 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.550542930918 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.512179644141 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+This Asian hotel is fed up with sex tourism/n0.879505572007 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.527300730448 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+0.497511621273 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Intimate details of a tennis wife/n0.810724504171 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.5017633682 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480006066445 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+10 diseases you thought were gone/n1.01741425551 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.554168956938 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+0.515897487264 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Terrifying reality of life in ISIS's capital/n0.851542221921 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.51917989255 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+0.506947008357 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+'Chief cameraman' of terror group caught/n1.01701589203 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.604257476986 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+0.553541530468 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+FIFA executive arrested on cruise ship/n1.0044443008 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.500072736685 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.483682864043 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+
+Hillary Clinton way out in front: Poll/n0.82480396781 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.561361438814 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+0.495293602329 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Deadly floods ravage India/n0.786164963131 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.598242540318 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.541366672961 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+
+NASA releases clearest images yet of Pluto/n1.10969934123 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.463634338422 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.446824910242 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+
+California shooter posted on Facebook during massacre/n0.811218649944 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501694905493 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480239155454 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Did wife radicalize husband before San Bernardino shooting?/n0.788590055194 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+0.780532989818 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.56415523974 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Training to be Santa is tough/n0.957779189744 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.519493489584 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.488663334861 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+NYT joins calls for gun control/n0.731835851949 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.687386050374 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+0.582904532808 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+
+Shaq: 'I spent $1M in 45 mins'/n0.813125176462 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501401406832 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480103122865 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Gang arrests over missing surfers/n0.838502769673 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.550814900494 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+0.498444684545 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Hero to friend: 'I got you'/n0.807693547123 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501898571031 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.479623138395 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Inside shooters' home/n0.822241366601 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.497876422164 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.485723285273 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+
+3 suspects arrested over missing surfers/n1.06670086662 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.587536723555 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+0.50596965076 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Nigerian army arrests 'chief cameraman' of Boko Haram/n0.764468646637 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.658752263585 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+0.607790756572 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Climate change deal reached/n1.42226282961 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.534876902537 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+0.495183916504 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+U.S. running out of bombs for ISIS/n0.901044925133 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501771430633 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.481737176236 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+CNN Heroes 2015 red carpet/n0.8445146804 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.512515019457 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.49000233487 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Sloth hangs with Anderson Cooper/n0.993730889845 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.568165573611 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.504370880816 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Stars honor Top 10 Heroes/n0.873599945485 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.605315535011 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+0.540734726196 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+
+'Fat Jupiter,' twin Earths revealed/n0.996053579829 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.581650960152 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.569564161778 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+
+'We don't have a life,' a Raqqa resident says/n0.899579815738 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.521993532272 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+0.506733300057 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Why children shouldn't be fashion models/n0.914213104928 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.499876149629 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.484015223886 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+German parliament votes to expand ISIS fight/n0.86453232275 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.703474875981 ['libya', 'isis', 'news', 'flight', 'airbase', 'training']
+0.501993127333 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+LOL! The year in laughter/n0.835011844471 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.561270338801 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+0.539959911146 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+40 freed from Taliban prison in Afghan-U.S. mission/n0.987166201824 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.742233317554 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.479089495879 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+
+Tennis wife reveals intimate details/n0.806966766868 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.50183095975 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.479481946196 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+10 deadly diseases you thought were gone/n0.961843532065 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.542141860324 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+0.502824713742 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+
+'We will die protecting gorillas/n0.888756759934 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.499588666962 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.486500741368 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Defiant Japan defies to kill 300 whales/n0.928325743911 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.516566715788 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.494751248525 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+
+The week in 38 photos/n0.818016206371 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.503821440175 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480799703965 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Deadly Chennai, India, flooding leaves residents in fear/n0.809134527734 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501787221896 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.479636168009 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Turkish man faces prison for comparing Erdogan to Gollum/n1.06266184388 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.823616894554 ['iraq', 'turkish', 'troops', 'inside', 'president', 'reuters']
+0.489084240948 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+
+Putin: Turkey will regret warplane downing 'for a long time'/n1.15300842609 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+0.928215295228 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.529600627046 ['iraq', 'turkish', 'troops', 'inside', 'president', 'reuters']
+
+Biblical King's seal discovered in dump site/n0.891271397396 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.499907919417 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.490497103643 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+2 MH370 studies 1 conclusion/n0.848712032119 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.505860503679 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.478255429653 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Inside the world's richest diamond mine/n0.903160019058 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.49218991286 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.485523627425 ['basel', 'miami', 'stabbed', 'woman', 'people', 'magazine']
+
+STANDING DOWN  Texas backs away from blocking Syrian refugees/n0.87215018379 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.500998709553 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.478018046242 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+JUSTIFIED KILLING?  Chicago officer says he shot teen 'to stop attack'/n0.82071570951 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.625052487484 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.486301278579 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+STATEWIDE SEARCH  New Mexico jewel thief wanted in second robbery/n0.813359822893 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501648210079 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.481004938115 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+TIED TO TERROR? San Bernardino shooter reportedly contacted foreign militant groups before massacre/n0.807870070957 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.690074621799 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+0.4791462538 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+ISIS TAKES FLIGHT  Terror group training  pilots at airbase in Libya/n1.1252286236 ['libya', 'isis', 'news', 'flight', 'airbase', 'training']
+0.850465651361 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.511174571215 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+FOX NEWS FIRST: Christie breaks through - Univision seeks to dismiss $500M Trump lawsuit over Miss USA cancellation - CAMPAIGN 2016 LIVE BLOG/n0.780525372465 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.536838467216 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+0.534122214048 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+
+Charlie Sheen's ex Scottine Ross: 'I want justice'/n0.832039657857 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.502604035498 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.490753317545 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Drum kit Ringo Starr used in Beatles hits sells for $2.2M/n0.825624919953 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.502263194932 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.487508766895 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+TODD STARNES: Federal judge bans school's live Nativity show  - VIDEO: Banning the Baby Jesus/n0.854145899596 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.602098229876 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.468848208511 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Okla. prisons head resigns amid execution investigation/n0.819725363772 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501457246384 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.482966754886 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Report: Government should end 'solar socialism'/n0.814987756644 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501966686078 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.481315049257 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Hollywood producer reported missing in November found in Mexico/n0.83081127463 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.503504260891 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.483089432716 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Duels, walkathons and turnip snatching: Michigan scrubs outdated laws from books/n0.869112528301 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501081128233 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.476535862205 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Buffalo has yet to see snow in December, breaks 116-year-old record/n0.813665373321 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.516787596121 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.490745688558 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Terror network in Paris attacks said to have UK links/n0.858048512868 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.723475897172 ['paris', 'attacks', 'abdeslam', 'suspect', 'seeks', 'belgium']
+0.491129011589 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Macy's faces lawsuit over handling of suspected shoplifters - Texas department store workers say they were fired for trying to stop shoplifter/n0.839976687546 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.552514160764 ['truckers', 'russian', 'moscow', 'over', 'times', 'near']
+0.500016688732 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Indiana shelter offers post-Thanksgiving special, finds new homes for all its pets - Kitten brought back to life after freezing in the snow/n0.842231905435 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.536676909802 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+0.516046925326 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Boston library recovers centuries-old French map/n0.804445208831 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501860578842 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.481259438585 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+US Postal Service to newspapers: your marijuana ads are illegal - Canada's Liberal government promises to legalize marijuana/n0.84544270676 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501972997858 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.47954301203 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+4-yr-old wrecks truck/n0.81028267056 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.502106677824 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.48000120909 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Gwen 'so upset' and 'crazy'/n0.817169868447 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501877617721 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.481664402474 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Danica goes sans makeup/n0.812337343188 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501684798231 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480633384814 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Selena's sexy concert getup/n0.829657060904 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.502285756818 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.488708838508 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+'GMA' desperate for viewers?/n0.797164966182 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.50274889397 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.483677797038 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Burger eating bride goes viral/n0.812010056841 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501846692091 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480192073907 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Who's using IV drips?/n0.811736899583 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501754199038 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480707580963 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+'Voice': What you DON'T know/n0.775042611507 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.572966263387 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.494685630547 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Pageant girl was suicidal/n0.812527720762 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501808980447 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.48034830863 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Toss again and you're toast/n0.798532237765 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.504174930781 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.500493457233 ['bernardino', 'shooting', 'reduce', 'shootings', 'mass', 'monitor']
+
+Disney star's husband dies/n0.808292567493 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.72061209099 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+0.502277342729 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+
+Bold satellite launch plan/n0.810139036312 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501857421059 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.480218591492 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+World's safest drone?/n0.875059269373 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.49876123502 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.472591658028 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
+Watch out for charity scams/n0.815159294981 ['pluto', 'images', 'nasa', 'clearest', 'world', 'show']
+0.501688656064 ['police', 'chicago', 'video', 'reports', 'about', 'america']
+0.481674109147 ['carney', 'former', 'husband', 'tiffany', 'thornton', 'star']
+
