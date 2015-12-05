@@ -1,5 +1,6 @@
 import feedparser
 import re
+from numpy import *
 
 feedlist = ['http://news.google.com/?output=rss',
             'http://rss.cnn.com/rss/edition.rss',
@@ -11,8 +12,7 @@ feedlist = ['http://news.google.com/?output=rss',
             'http://www.foxnews.com/xmlfeed/rss/0,4313,81,00.rss',
             'http://hosted.ap.org/lineups/TOPHEADS-rss_2.0.xml',
             'http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml',
-            'http://hosted.ap.org/lineups/WORLDHEADS-rss_2.0.xml',
-            'http://hosted.ap.org/lineups/POLITICSHEADS-rss_2.0.xml']
+            'http://hosted.ap.org/lineups/WORLDHEADS-rss_2.0.xml']
 
 
 def stripHTML(h):
@@ -29,7 +29,7 @@ def stripHTML(h):
     return p
 
 
-def sparatewords(text):
+def separatewords(text):
     spiltter = re.compile('\\W*')
     return [s.lower() for s in spiltter.split(text) if len(s) > 3]
 
@@ -45,7 +45,7 @@ def getarticlewords():
         for e in f.entries:
             if e.title in articletitles: continue
             txt = e.title.encode('utf-8') + stripHTML(e.description.encode('utf-8'))
-            words = sparatewords(txt)
+            words = separatewords(txt)
             articlewords.append({})
             articletitles.append(e.title)
             for word in words:
@@ -65,3 +65,44 @@ def makematrix(allw, articlew):
     l1 = [[(word in f and f[word] or 0) for word in wordvec] for f in articlew]
     return l1, wordvec
 
+
+def showfeatures(w, h, titles, wordvec, out='features.txt'):
+    outfile = file(out, 'w')
+    pc, wc = shape(h)
+    toppatterns = [[] for i in range(len(titles))]
+    patternnames = []
+
+    for i in range(pc):
+        slist = []
+        for j in range(wc):
+            slist.append((h[i, j], wordvec[j]))
+        slist.sort()
+        slist.reverse()
+
+        n = [s[1] for s in slist[0:6]]
+        outfile.write(str(n) + '\n')
+        patternnames.append(n)
+        flist = []
+        for j in range(len(titles)):
+            flist.append((w[j, i], titles[j]))
+            toppatterns[j].append(w[j, i], i, titles[j])
+        flist.sort()
+        flist.reverse()
+
+        for f in flist[0:3]:
+            outfile.write(str(f) + '\n')
+        outfile.write('\n')
+        outfile.close()
+        return toppatterns, patternnames
+
+
+def showarticles(titles, toppatterns, patternnames, out='articles.txt'):
+    outfile = file(out, 'w')
+    for j in range(len(titles)):
+        outfile.write(titles[j].encode('utf-8') + '/n')
+        toppatterns[j].sort()
+        toppatterns[j].reverse()
+        for i in range(3):
+            outfile.write(str(toppatterns[j][i][0]) + " " + str(patternnames[toppatterns[j][i][1]]) + '\n')
+            outfile.write('\n')
+        outfile.close()
