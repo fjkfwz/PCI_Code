@@ -24,9 +24,9 @@ import gp
 # rf = gp.getrankfunction(gp.buildhiddenest())
 # gp.evolve(2, 500, rf, mutationrate=0.2, breedinggrate=0.1, pexp=0.7, pnew=0.1)
 # ----------------------------------------------------------
-p1 = gp.makerandomtree(5)
-p2 = gp.makerandomtree(5)
-print gp.gridgame([p1, p2])
+# p1 = gp.makerandomtree(5)
+# p2 = gp.makerandomtree(5)
+# print gp.gridgame([p1, p2])
 winner = gp.evolve(5, 100, gp.tournament, maxgen=50)
-print winner
-gp.gridgame([winner, gp.humanplayer()])
+# print winner
+print gp.gridgame([winner, gp.humanplayer()])

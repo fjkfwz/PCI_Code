@@ -222,7 +222,7 @@ class humanplayer:
         for i in range(4):
             for j in range(4):
                 if (i, j) == me:
-                    print 'O'
+                    print 'O',
                 elif (i, j) in others:
                     print 'X',
                 else:
@@ -232,6 +232,6 @@ class humanplayer:
         print ' 0'
         print '2 3'
         print ' 1'
-        print 'Enter move:',
+        print 'Enter move: ',
         move = int(raw_input())
         return move
