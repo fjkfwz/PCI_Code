@@ -19,6 +19,5 @@ import zillow
 # print treepredict.mdclassify(['google', 'None', 'yes', None], tree)
 # print treepredict.mdclassify(['google', 'France', None, None], tree)
 housedata = zillow.getpricelist()
-print housedata
 housetree = treepredict.buildtree(housedata, scoref=treepredict.variance)
-treepredict.drawtree(housedata, 'housetree.jpg')
+treepredict.drawtree(housetree,'housetree.jpg')

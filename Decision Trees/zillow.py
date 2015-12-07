@@ -27,7 +27,7 @@ def getaddressdata(address, city):
         rooms = doc.getElementsByTagName('totalRooms')[0].firstChild.data
         price = doc.getElementsByTagName('amount')[0].firstChild.data
     except:
-        return [0, 0, 0, 0, 0, 0, 0]
+        return None
     return [zipcode, use, int(year), float(bath), int(bed), int(rooms), price]
 
 
@@ -35,5 +35,6 @@ def getpricelist():
     l1 = []
     for line in file('addresslist.txt'):
         data = getaddressdata(line.strip(), 'Cambridge,MA')
-        l1.append(data)
+        if data != None:
+            l1.append(data)
     return l1
