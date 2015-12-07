@@ -52,3 +52,4 @@ def entropy(rows):
         ent = ent - p * log2(p)
     return ent
 
+def buildtree()
