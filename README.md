@@ -20,7 +20,7 @@ def getlocation(address):
     loc_cache[address] = (float(lat), float(long))
     return loc_cache[address]
 ```
-
+1.将原书第10章：knm Yahoo API替换方法为Yahoo API:http://query.yahooapis.com/v1/public/yql
 ```
 while True:
         rows = urlopen(
